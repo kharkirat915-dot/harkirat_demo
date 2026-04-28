@@ -1,3 +1,1 @@
-# harkirat_demo
-first git repository
-author-Harkirat Kaur Virk
+#this is my local repo
