@@ -1,3 +1,3 @@
 # harkirat_demo
 first git repository
-author-Harkirat Kaur
+author-Harkirat Kaur Virk
